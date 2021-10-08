@@ -3,7 +3,7 @@
 
 <h4 align="center">
 :books: I am a bachelor's degree student in Computer Engineering.
-I'm currently a public agent, but I'm in the process of changing my profession, my interest is to become a Backend developer, or even a Fullstack developer.</br>I'm learning to programing in C# and Python, using SQL databases like MySQL and Oracle. 
+I am currently a public agent, but I'm in the process of changing my profession, my interest is to become a Backend developer, or even a Fullstack developer.</br>I am learning to programing in C# and Python, using SQL databases like MySQL and Oracle. 
 </br></br>
 
 

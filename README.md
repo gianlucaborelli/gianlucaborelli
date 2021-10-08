@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I’m <b><i>Gianluca Borelli</i></b> 
+<h1 align="center"> 👋 Hi, I am <b><i>Gianluca Borelli</i></b> 
 <h1/>
 
 <h4 align="center">

@@ -1,34 +1,81 @@
-<h1 align="center"> 👋 Hi, I am <b><i>Gianluca Borelli</i></b> 
-<h1/>
+<table width="100%">
+  <tr>
+    <td width="200" align="center" valign="top">
+      <img 
+        src="img/Hero.png" 
+        width="200" 
+        alt="Foto de perfil" 
+        style="border: 2px solid #0969da; border-radius: 12px; padding: 3px;"
+        />
+    </td>
+    <td colspan="2" valign="top">
+      <div align="center">
+        <h1>
+        👋 Hi, I'm 
+          <a href="https://www.linkedin.com/in/borelli-gianluca//">Gianluca Borelli 😃️</a>
+        </h1>
+      </div>
+      <div align="justify" style="font-size: 1em;">
+        <br/><br/>
+        Backend Developer proficient in C# with ASP.NET, RabbitMQ messaging, and design patterns. Practical knowledge of SOLID principles, Clean Code, and best development practices.  
+        <br/><br/>
+        Also experienced with Java, Go, AWS (Cloud Practitioner), Azure, Docker, Angular, and Spring Boot. Committed, proactive, and solution-oriented, with a constant drive to improve technical skills and contribute to impactful projects.
+        <br/><br/>
+      </div>
+      <p align="center" style="font-size: 1.5em;">
+        <strong>Shall we build something great together?</strong>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <h3 align="center">🛠️ Technical Skills</h3>
+      <table width="100%">
+        <tr>
+          <td align="center">
+            <h4>💻 Languages</h4>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="36" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" />
+          </td>
+          <td align="center">
+            <h4>🧩 Frameworks & Libraries</h4>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="36" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="36" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="36" />
+          </td>
+          <td align="center">
+            <h4>☁️ Infrastructure & Cloud</h4>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" />
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-<h4 align="center">
-:books: I am a bachelor's degree student in Computer Engineering.
-I am currently a public agent, but in the process of changing my profession.</br>
-My interest is to become a Backend developer, or even a Fullstack developer.</br>I am learning to program in C# and Python, using SQL databases like MySQL and Oracle. 
-</br></br>
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/borelli-gianluca/)]( https://www.linkedin.com/in/borelli-gianluca/)
-</h4>
+<h3 align="center">📬 Contact Me</h3>
 <p align="center">
-:mailbox: How to reach me: <a href="gianlucaborelli2@hotmail.com">gianlucaborelli2@hotmail.com</a>
+  <a href="mailto:gianlucaborelli2@hotmail.com" title="gianlucaborelli2@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-gianlucaborelli2%40hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/borelli-gianluca/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Gianluca%20Borelli-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br/><br/>
+  <a href="https://gianlucaborelli.dev/" title="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-gianlucaborelli.dev-black?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
-
 <p align="center">
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-
-</p>
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gianlucaborelli" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gianlucaborelli&layout=compact&langs_count=8&card_width=320" />
-</a>
-
+  <strong>Feel free to reach out — I’d be happy to connect!</strong>
 </p>

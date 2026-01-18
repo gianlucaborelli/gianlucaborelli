@@ -16,7 +16,7 @@
   </p>      
   <h3 align="center">🛠️ Technical Skills</h3>
 
-  <table width="100%">
+  <table width="100%" align="center">
     <tr>
       <td align="center">
         <h4>💻 Languages</h4>
